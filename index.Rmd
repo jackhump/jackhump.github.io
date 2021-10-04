@@ -45,8 +45,8 @@ I study the genetic factors that cause neurodegenerative diseases such as amyotr
 
 #### Skills
 
-**Programming languages** | R, Python, Bash, AWK
+**Programming languages**: R, Python, Bash, AWK
 
-**Tools** | snakemake, Shiny, STAR, samtools, vcftools, plink, leafcutter, tensorQTL, QTLtools
+**Tools**: snakemake, Shiny, STAR, samtools, vcftools, plink, leafcutter, tensorQTL, QTLtools
 
-**Software written** | [leafcutter](https://davidaknowles.github.io/leafcutter/) | [leafviz](https://github.com/jackhump/leafviz) | [cryptex](https://github.com/jackhump/cryptex) 
+**Software written**: [leafcutter](https://davidaknowles.github.io/leafcutter/) | [leafviz](https://github.com/jackhump/leafviz) | [cryptex](https://github.com/jackhump/cryptex) 
