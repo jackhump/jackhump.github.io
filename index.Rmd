@@ -1,9 +1,12 @@
 ---
 title: "Jack Humphrey"
 image: "beardy_me_2016.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
 links:
   - label: Publications
-    url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=x6GuSDsAAAAJ"
+    url: "https://scholar.google.com/citations?hl=en&user=x6GuSDsAAAAJ&view_op=list_works&sortby=pubdate"
   - label: Twitter
     url: "https://twitter.com/JackHumphrey_"
   - label: GitHub
@@ -14,36 +17,33 @@ output:
   postcards::trestles
 ---
  
-## Bio
+I study the genetic factors that cause neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and Alzheimer's disease.  I have expertise in both developing and applying computational tools to measure gene expression, mRNA splicing, and genetic variation, as well as statistical methods to integrate multiple types of genomic data. 
 
-Jack studies the genetic factors that cause neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and Alzheimer's disease. 
-He has expertise in both developing and applying computational tools to measure gene expression, mRNA splicing, and genetic variation, as well as statistical methods to integrate multiple types of genomic data. 
-
-## Education
+#### Education
 
 **University College London** | London, UK
 
-Ph.D. in Computational Biology | September 2014 - Feb 2019
+*Ph.D. in Computational Biology* | September 2014 - Feb 2019
 
 **University College London** | London, UK
 
-MSci in Natural Sciences | September 2010 - July 2014
+*MSci in Natural Sciences* | September 2010 - July 2014
 
-## Experience
+#### Experience
 
 **Icahn School of Medicine at Mount Sinai** | New York City, USA
 
-Postdoctoral Fellow | February 2019 - Present
+*Postdoctoral Fellow* | February 2019 - Present
 
 **Inivata** | Cambridge, UK
 
-Computational Scientist | January 2018 - March 2018
+*Computational Scientist* | January 2018 - March 2018
 
-**Stanford University** | Stanford, CA
+**Stanford University** | Palo Alto, USA
   
-Visiting Student Researcher | February 2017 - May 2017
+*Visiting Student Researcher* | February 2017 - May 2017
 
-## Skills
+#### Skills
 
 **Programming languages** | R, Python, Bash, AWK
 
