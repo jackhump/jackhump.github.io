@@ -1,0 +1,52 @@
+---
+title: "Jack Humphrey"
+image: "beardy_me_2016.png"
+links:
+  - label: Publications
+    url: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=x6GuSDsAAAAJ"
+  - label: Twitter
+    url: "https://twitter.com/JackHumphrey_"
+  - label: GitHub
+    url: "https://github.com/jackhump"
+  - label: Email
+    url: "mailto:jack.humphrey@mssm.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Jack studies the genetic factors that cause neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and Alzheimer's disease. 
+He has expertise in both developing and applying computational tools to measure gene expression, mRNA splicing, and genetic variation, as well as statistical methods to integrate multiple types of genomic data. 
+
+## Education
+
+**University College London** | London, UK
+
+Ph.D. in Computational Biology | September 2014 - Feb 2019
+
+**University College London** | London, UK
+
+MSci in Natural Sciences | September 2010 - July 2014
+
+## Experience
+
+**Icahn School of Medicine at Mount Sinai** | New York City, USA
+
+Postdoctoral Fellow | February 2019 - Present
+
+**Inivata** | Cambridge, UK
+
+Computational Scientist | January 2018 - March 2018
+
+**Stanford University** | Stanford, CA
+  
+Visiting Student Researcher | February 2017 - May 2017
+
+## Skills
+
+**Programming languages** | R, Python, Bash, AWK
+
+**Tools** | snakemake, Shiny, STAR, samtools, vcftools, plink, leafcutter, tensorQTL, QTLtools
+
+**Software written** | [leafcutter](https://davidaknowles.github.io/leafcutter/) | [leafviz](https://github.com/jackhump/leafviz) | [cryptex](https://github.com/jackhump/cryptex) 
