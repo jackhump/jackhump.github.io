@@ -20,33 +20,27 @@ output:
 I study the genetic factors that cause neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and Alzheimer's disease.  I have expertise in both developing and applying computational tools to measure gene expression, mRNA splicing, and genetic variation, as well as statistical methods to integrate multiple types of genomic data. 
 
 #### Education
-
-**University College London** | London, UK
-
-*Ph.D. in Computational Biology* | September 2014 - Feb 2019
-
-**University College London** | London, UK
-
-*MSci in Natural Sciences* | September 2010 - July 2014
-
+| **University College London** | London, UK
+|    Ph.D. Computational Biology | September 2014 - Feb 2019
+|    MSci Natural Sciences | September 2010 - July 2014
+|
+|
 #### Experience
-
-**Icahn School of Medicine at Mount Sinai** | New York City, USA
-
-*Postdoctoral Fellow* | February 2019 - Present
-
-**Inivata** | Cambridge, UK
-
-*Computational Scientist* | January 2018 - March 2018
-
-**Stanford University** | Palo Alto, USA
-  
-*Visiting Student Researcher* | February 2017 - May 2017
-
+| **Icahn School of Medicine at Mount Sinai** | New York City, USA
+|    Instructor | November 2021 - Present
+|    Postdoctoral Fellow | February 2019 - November 2021
+| **Inivata** | Cambridge, UK
+|    Computational Scientist | January 2018 - March 2018
+| **Stanford University** | Palo Alto, USA
+|    Visiting Student Researcher | February 2017 - May 2017
+|
+|
 #### Skills
+| **Programming**
+|    R, Python, Bash, AWK
 
-**Programming languages**: R, Python, Bash, AWK
+| **Tools**
+|    snakemake, Shiny, STAR, samtools, vcftools, plink, leafcutter, tensorQTL, QTLtools
 
-**Tools**: snakemake, Shiny, STAR, samtools, vcftools, plink, leafcutter, tensorQTL, QTLtools
-
-**Software written**: [leafcutter](https://davidaknowles.github.io/leafcutter/) | [leafviz](https://github.com/jackhump/leafviz) | [cryptex](https://github.com/jackhump/cryptex) 
+| **Software**: 
+|     [leafcutter](https://davidaknowles.github.io/leafcutter/) | [leafviz](https://github.com/jackhump/leafviz) | [sqtlviztools](https://github.com/jackhump/sqtlviztools) | [cryptex](https://github.com/jackhump/cryptex) 
