@@ -8,7 +8,7 @@ links:
   - label: Publications
     url: "https://scholar.google.com/citations?hl=en&user=x6GuSDsAAAAJ&view_op=list_works&sortby=pubdate"
   - label: CV
-    url: "https://drive.google.com/file/d/1b2rSFYc6MM_tU_sTGO2a-l89WQaltCeP/view"
+    url: "https://drive.google.com/file/d/1n_VtVKvaQHlJZY0yvyr5Fh4bi15dkTj1/view"
   - label: Twitter
     url: "https://twitter.com/JackHumphrey_"
   - label: GitHub
