@@ -8,7 +8,7 @@ links:
   - label: Publications
     url: "https://scholar.google.com/citations?hl=en&user=x6GuSDsAAAAJ&view_op=list_works&sortby=pubdate"
   - label: CV
-    url: "https://drive.google.com/file/d/1j8Fqf1ZeEB1go-15C-A9l7hL2lK8bFxK/view"
+    url: "https://drive.google.com/file/d/1Ud5CLiE3EhFikljz12Ziy-s9OunefeEB/view"
   - label: Twitter
     url: "https://twitter.com/JackHumphrey_"
   - label: GitHub
@@ -18,6 +18,8 @@ links:
 output:
   postcards::trestles
 ---
+
+I am a geneticist and computational RNA biologist.
  
 I study the genetic factors that cause neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and Alzheimer's disease.  
 
