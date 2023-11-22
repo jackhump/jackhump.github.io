@@ -8,7 +8,7 @@ links:
   - label: Publications
     url: "https://scholar.google.com/citations?hl=en&user=x6GuSDsAAAAJ&view_op=list_works&sortby=pubdate"
   - label: CV
-    url: "https://drive.google.com/file/d/1Ud5CLiE3EhFikljz12Ziy-s9OunefeEB/view"
+    url: "https://drive.google.com/file/d/1Y6eeJKWzZGhNA3qlwyC1hVuAseihvdT0/view"
   - label: Twitter
     url: "https://twitter.com/JackHumphrey_"
   - label: GitHub
@@ -19,11 +19,17 @@ output:
   postcards::trestles
 ---
 
-I am a geneticist and computational RNA biologist.
- 
-I study the genetic factors that cause neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and Alzheimer's disease.  
+```{css, echo = FALSE}
+body {
+background-color: #f7eec6!important;
+}
+```
 
-I develop and apply computational tools to measure gene expression, mRNA splicing, and genetic variation, as well as statistical methods to integrate multiple types of genomic data. 
+I am a geneticist and computational RNA biologist trying to understand neurodegeneration.
+ 
+I study the genetic factors that cause diseases such as amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and Alzheimer's disease.  
+
+To achieve this, I develop and apply computational tools to measure gene expression, mRNA splicing, and genetic variation, as well as statistical methods to integrate multiple types of genomic data. 
 
 #### Education
 | **University College London** | London, UK
@@ -39,6 +45,8 @@ I develop and apply computational tools to measure gene expression, mRNA splicin
 |    _Computational Scientist_ | January 2018 - March 2018
 | **Stanford University** | Palo Alto, USA
 |    _Visiting Student Researcher_ | February 2017 - May 2017
+| **Justus Liebig University** | Giessen, Germany
+|   _DAAD RISE Scholar_ | June 2012 - August 2012
 |
 |
 #### Skills
@@ -49,4 +57,20 @@ I develop and apply computational tools to measure gene expression, mRNA splicin
 |    ggplot2, dplyr, snakemake, Shiny, STAR, samtools, vcftools, plink, tensorQTL, SQANTI, Inkscape
 
 | **Software I wrote/co-wrote:**
+|     [NYGC ALS Consortium Spinal Cord Browser](https://rstudio-connect.hpc.mssm.edu/als_spinal_cord_browser/)
 |     [leafcutter](https://davidaknowles.github.io/leafcutter/) | [leafviz](https://github.com/jackhump/leafviz) | [sqtlviztools](https://github.com/jackhump/sqtlviztools) | [cryptex](https://github.com/jackhump/cryptex) 
+|
+|
+#### Recent Publications
+| <u>Humphrey J</u>, Venkatesh S, Hasan R, Herb JT, de Paiva Lopes K, Küçükali F, Byrska-Bishop M, Evani US, Narzisi G, Fagegaltier D, NYGC ALS Consortium, Sleegers K, Phatnani H, Knowles DA, Fratta P, Raj T. *Integrative transcriptomic analysis of the amyotrophic lateral sclerosis spinal cord implicates glial activation and suggests new risk genes.* (2023) 
+| [_Nature Neuroscience_](https://pubmed.ncbi.nlm.nih.gov/36482247/)  
+| 
+| Brown A, Wilkins OG, Keuss MJ, Hill SE, Zanovello M, Lee WC, Lee FCY, Masino L, Qi YA, Bryce-Smith S, Bampton A, Gatt A, Phatnani H, NYGC ALS Consortium, Schiavo G, Fisher EMC, Raj T, Secrier M, Lashley T, Ule J, Buratti E, <u>Humphrey J</u>, Ward ME, Fratta P. *TDP-43 loss and ALS-risk SNPs drive mis-splicing and depletion of UNC13A.* (2022)
+| [_Nature_](https://pubmed.ncbi.nlm.nih.gov/35197628/) 
+|
+| Hasan R, <u>Humphrey J</u>, Bettencount C, NYGC ALS Consortium, Lashley T, Fratta P, Raj T. *Transcriptomic analysis of frontotemporal lobar degeneration with TDP-43 pathology reveals cellular alterations across multiple brain regions.* (2022)
+| [_Acta Neuropathologica_](https://pubmed.ncbi.nlm.nih.gov/34961893/)  
+| 
+| Lopes KP†, Snijders GJL†, <u>Humphrey J†</u>, Allan A, Sneeboer M, Navarro E, Schilder BM, Vialle RA, Parks M, Missall R, van Zuiden W, Gigase F, Kübler R, van Berlekom AB, Böttcher C, Priller J, Kahn RS, de Witte LD, Raj T. *Genetic analysis of the human microglial transcriptome across brain regions, aging and disease pathologies.* (2022)
+| [_Nature Genetics_](https://pubmed.ncbi.nlm.nih.gov/34992268/)
+
