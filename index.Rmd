@@ -23,6 +23,11 @@ output:
 body {
 background-color: #f7eec6!important;
 }
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
 ```
 
 I am a geneticist and computational RNA biologist working to understand neurodegeneration. I study the genetic factors that cause diseases such as amyotrophic lateral sclerosis (ALS), frontotemporal dementia (FTD), and Alzheimer's disease. I develop and apply computational tools to measure gene expression, mRNA splicing, and genetic variation, as well as statistical methods to integrate multiple types of genomic data. 
@@ -30,19 +35,22 @@ I am a geneticist and computational RNA biologist working to understand neurodeg
 #### Education
 | **University College London** | London, UK
 |    _Ph.D. Clinical Neuroscience_ | September 2014 - February 2019
+|       Mentors: [Adrian Isaacs](https://ukdri.ac.uk/team/adrian-isaacs), [Pietro Fratta](https://www.frattalab.org/team) & [Vincent Plagnol](https://www.linkedin.com/in/vincent-plagnol-ab8a5b65/?originalSubdomain=uk)
 |    _MSci Natural Sciences_ | September 2010 - July 2014
+|       Mentor: [John Wood](https://www.ucl.ac.uk/molecular-nociception-group/)
 |
 |
 #### Experience
 | **Icahn School of Medicine at Mount Sinai** | New York City, USA
 |    _Instructor_ | November 2021 - Present
 |    _Postdoctoral Fellow_ | February 2019 - November 2021
+|       Mentor: [Towfique Raj](https://rajlab.org/)
 | **Inivata** | Cambridge, UK
 |    _Computational Scientist_ | January 2018 - March 2018
 | **Stanford University** | Palo Alto, USA
-|    _Visiting Student Researcher_ | February 2017 - May 2017
+|    _Visiting Student Researcher, [Pritchard Lab](https://web.stanford.edu/group/pritchardlab/home.html)_ | February 2017 - May 2017
 | **Justus Liebig University** | Giessen, Germany
-|   _DAAD RISE Scholar_ | June 2012 - August 2012
+|   _DAAD RISE Scholar, [Diener Lab](https://www.uni-giessen.de/de/fbz/fb10/institute_klinikum/institute/vphysbio/allgemein/personen-veterinaer-physiologie/martin-diener)_ | June 2012 - August 2012
 |
 |
 #### Skills
@@ -54,7 +62,10 @@ I am a geneticist and computational RNA biologist working to understand neurodeg
 
 | **Software I wrote/co-wrote:**
 |     [NYGC ALS Consortium Spinal Cord Browser](https://rstudio-connect.hpc.mssm.edu/als_spinal_cord_browser/)
-|     [leafcutter](https://davidaknowles.github.io/leafcutter/) | [leafviz](https://github.com/jackhump/leafviz) | [sqtlviztools](https://github.com/jackhump/sqtlviztools) | [cryptex](https://github.com/jackhump/cryptex) 
+|     [leafcutter](https://davidaknowles.github.io/leafcutter/)
+|     [leafviz](https://github.com/jackhump/leafviz)
+|     [sqtlviztools](https://github.com/jackhump/sqtlviztools) 
+|     [cryptex](https://github.com/jackhump/cryptex) 
 |
 |
 #### Selected Publications
