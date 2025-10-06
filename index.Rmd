@@ -5,12 +5,12 @@ color1: "#5A59A3"
 color2: "#C66060"
 angle: 130
 links:
+  - label: Humphrey Lab
+    url: "https://www.humphreylab.org"
   - label: Publications
     url: "https://scholar.google.com/citations?hl=en&user=x6GuSDsAAAAJ&view_op=list_works&sortby=pubdate"
   - label: CV
-    url: "https://drive.google.com/file/d/1PIUW6HT17i-G48AnCiaZ3W1_kSnI2roH/view"
-  - label: Twitter
-    url: "https://twitter.com/JackHumphrey_"
+    url: "https://drive.google.com/file/d/1hHC-9QmYwCXF9L6X6XTk2Jr-SzH2q4Hw/view"
   - label: GitHub
     url: "https://github.com/jackhump"
   - label: Email
@@ -42,8 +42,9 @@ I am a geneticist and computational RNA biologist working to understand neurodeg
 |
 #### Experience
 | **Icahn School of Medicine at Mount Sinai** | New York City, USA
-|    _Instructor_ | November 2021 - Present
-|    _Postdoctoral Fellow_ | February 2019 - November 2021
+|    _Assistant Professor_ | July 2025 - Present
+|    _Instructor_ | November 2021 - June 2025
+|    _Postdoctoral Fellow_ | February 2019 - October 2021
 |       Mentor: [Towfique Raj](https://rajlab.org/)
 | **Inivata** | Cambridge, UK
 |    _Computational Scientist_ | January 2018 - March 2018
@@ -69,7 +70,7 @@ I am a geneticist and computational RNA biologist working to understand neurodeg
 |
 |
 #### Selected Publications
-| <u>**Humphrey J**</u>, Brophy E, Kosoy R, Zeng B, Coccia E, Mattei D, Ravi A, Efthymiou AG, Navarro E, Muller BZ, Snijders GJ, Allan A, Münch A, Kitata RB, Kleopoulos SP, Argyriou S, Shao Z, Francoeur N, Tsai CF, Gritsenko MA, Monroe ME, Paurus VL, Weitz KK, Shi T, Sebra R, Liu T, de Witte LD, Goate AM, Bennett DA, Haroutunian V, Hoffman GE, Fullard JF, Roussos P, Raj T. *Long-read RNA-seq atlas of novel microglia isoforms elucidates disease-associated genetic regulation of splicing.* (2023) [_medRxiv_](https://www.medrxiv.org/content/10.1101/2023.12.01.23299073v1)
+| <u>**Humphrey J**</u>, Brophy E, Kosoy R, Zeng B, Coccia E, Mattei D, Ravi A, Naito T, Efthymiou AG, Navarro E, De Sanctis C, Flores-Almazan V, Muller BZ, Snijders GJLJ, Allan A, Münch A, Kitata RB, Kleopoulos SP, Argyriou S, Malakates P, Psychogyiou K, Shao Z, Francoeur N, Tsai CF, Gritsenko MA, Monroe ME, Paurus VL, Weitz KK, Shi T, Sebra R, Liu T, de Witte LD, Goate AM, Bennett DA, Haroutunian V, Hoffman GE, Fullard JF, Roussos P, Raj T. *Long-read RNA-seq atlas of novel microglia isoforms elucidates disease-associated genetic regulation of splicing.* (2025) [_Nature Genetics_](https://www.nature.com/articles/s41588-025-02099-0)
 |
 | <u>**Humphrey J**</u>, Venkatesh S, Hasan R, Herb JT, de Paiva Lopes K, Küçükali F, Byrska-Bishop M, Evani US, Narzisi G, Fagegaltier D, NYGC ALS Consortium, Sleegers K, Phatnani H, Knowles DA, Fratta P, Raj T. *Integrative transcriptomic analysis of the amyotrophic lateral sclerosis spinal cord implicates glial activation and suggests new risk genes.* (2023) [_Nature Neuroscience_](https://pubmed.ncbi.nlm.nih.gov/36482247/)  
 | 
